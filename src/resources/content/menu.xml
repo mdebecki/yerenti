@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category>
+	<name>Maszyny budowlane</name>
+	<url>category=maszyny+budowlane</url>
+	<subcategory>
+		<name>Hydromechanizacja</name>
+		<url>category=hydromechanizacja</url>
+	</subcategory>
+	<subcategory>
+		<name>Narzędzia zmechanizowane </name>
+		<url>category=narzedzia+zmechanizowane</url>
+	</subcategory>
+	<subcategory>
+		<name>Obróbka masy betonowej</name>
+		<url>category=obrobka+masy+betonowej</url>
+	</subcategory>
+	<subcategory>
+		<name>Przeróbka kruszyw </name>
+		<url>przerobka+kruszyw</url>
+	</subcategory>
+	<subcategory>
+		<name>Roboty drogowe</name>
+		<url>category=roboty+drogowe</url>
+	</subcategory>
+	<subcategory>
+		<name>Roboty palowe</name>
+		<url>category=roboty+palowe</url>
+	</subcategory>
+	<subcategory>
+		<name>Roboty wykończeniowe</name>
+		<url>category=roboty+wykonczeniowe</url>
+	</subcategory>
+	<subcategory>
+		<name>Roboty zbrojarskie</name>
+		<url>category=roboty+zbrojarskie</url>
+	</subcategory>
+	<subcategory>
+		<name>Roboty ziemne</name>
+		<url>category=roboty+ziemne</url>
+	</subcategory>
+	<subcategory>
+		<name>Transport bliski</name>
+		<url>category=transport+bliski</url>
+	</subcategory>
+	<subcategory>
+		<name>Transport samochodowy</name>
+		<url>category=transport+samochodowy</url>
+	</subcategory>
+	<subcategory>
+		<name>Urządzenia pomocnicze</name>
+		<url>category=urzadzenia+pomocnicze</url>
+	</subcategory>
+	<subcategory>
+		<name>Inne</name>
+		<url>category=inne</url>
+	</subcategory>
+</category>
+
